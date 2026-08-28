@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jamalvfx.twa",
+    "sha256_cert_fingerprints": ["DB:C5:AB:4E:1C:25:47:AD:25:93:EE:F9:4C:66:76:2D:AA:33:4C:41:F9:84:CC:50:4C:23:2F:0D:91:D9:B1:C5"]
+  }
+}]
